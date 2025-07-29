@@ -1,0 +1,4 @@
+[submodule "mod/checklist"]
+	path = mod/checklist
+	url = https://github.com/davosmith/moodle-checklist.git
+	branch = MOODLE_401_STABLE
