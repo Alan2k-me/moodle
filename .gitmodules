@@ -2,3 +2,7 @@
 	path = mod/checklist
 	url = https://github.com/davosmith/moodle-checklist.git
 	branch = MOODLE_401_STABLE
+[submodule "course/format/tiles"]
+	path = course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles.git
+	branch = moodle41b
